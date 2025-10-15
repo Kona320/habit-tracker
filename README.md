@@ -6,7 +6,7 @@ Example of the site:
 
 
 
-Description and key features:
+**Description and key features:**
 
 This is a habit tracker that can be used in your web browser. You can make any habits of your choosing
 and add them to the list via the "Add" button. The habit tracker is able to show your current streak and also
@@ -48,6 +48,7 @@ What I learned and what I could improve next? Well basically I have learned the 
 before, but it was only with html and css. Now I got to add javascript in to the mix and it is cool to see what it can do. As the name says, it can be used to make apps on web and you can run it like
 normal website with live url or you could just use it locally if you wanted to. For example if you wanted to make app like habit tracker just for yourself, you wouldn't really have to deploy it, but you could
 just use it locally from your PC / laptop. And what can I improve? Well I can learn lot more. This is only the beginning. I do like the idea of making apps with JS.
+
 
 
 
