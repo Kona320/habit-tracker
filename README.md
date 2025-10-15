@@ -13,7 +13,7 @@ and add them to the list via the "Add" button. The habit tracker is able to show
 it will remember your best streak. You can navigate the app with either keyboard or mouse.
 
 
-How to run locally on windows:
+**How to run locally on windows:**
 
 Steps to run the app locally on windows: 1. Navigate to here: https://github.com/Kona320/habit-tracker
 2. Click "Code" And then "Download ZIP"
@@ -23,7 +23,7 @@ Steps to run the app locally on windows: 1. Navigate to here: https://github.com
 (sidenote: You can right click the index file and click "open with" if you want to choose other browser to open it with)
 
 
-Self-assessment with canvas rubric:
+**Self-assessment with canvas rubric:**
 
 A. Core functionality: The app functions well and has everything it's supposed to have, like you can add habit, tick days, the data persists when the website is refreshed,
 it shows current and best streak. (10 points)
@@ -42,12 +42,13 @@ F. Deployment: Live URL and github page. (2 points)
 G. Demo video: Work in progress. (? points)
 
 
-Reflection:
+**Reflection:**
 
 What I learned and what I could improve next? Well basically I have learned the basic idea of how a web app works and how it can be made. It is interesting to see, because I have made one website
 before, but it was only with html and css. Now I got to add javascript in to the mix and it is cool to see what it can do. As the name says, it can be used to make apps on web and you can run it like
 normal website with live url or you could just use it locally if you wanted to. For example if you wanted to make app like habit tracker just for yourself, you wouldn't really have to deploy it, but you could
 just use it locally from your PC / laptop. And what can I improve? Well I can learn lot more. This is only the beginning. I do like the idea of making apps with JS.
+
 
 
 
