@@ -35,13 +35,13 @@ There is no jarring shifts and everything works smoothly. The website app has ch
 
 D. Data handling: Has sensible defaults and error handling. Could probably be improved and hardened if it was needed. (3 points) 
 
-E. Documentation: Has install and run steps for windows, but not mac, with good clarity. Documentation has reflection. (2 points)
+E. Documentation: Has install and run steps for windows, but not for mac, with good clarity. Documentation has reflection. (2 points)
 
 F. Deployment: Live URL and github page. (2 points)
 
-G. Demo video: Work in progress. (? points)
+G. Demo video: Video presentation is good/okay. (3 points)
 
-**Total points:**
+**Total points:** 30
 
 
 **Reflection:**
@@ -50,6 +50,7 @@ What I learned and what I could improve next? Well basically I have learned the 
 before, but it was only with html and css. Now I got to add javascript in to the mix and it is cool to see what it can do. As the name says, it can be used to make apps on web and you can run it like
 normal website with live url or you could just use it locally if you wanted to. For example if you wanted to make app like habit tracker just for yourself, you wouldn't really have to deploy it, but you could
 just use it locally from your PC / laptop. And what can I improve? Well I can learn lot more. This is only the beginning. I do like the idea of making apps with JS.
+
 
 
 
