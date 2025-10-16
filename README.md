@@ -39,7 +39,7 @@ E. Documentation: Has install and run steps for windows, but not for mac, with g
 
 F. Deployment: Live URL and github page. (2 points)
 
-G. Demo video: Video presentation is good/okay. (3 points)
+G. Demo video: Video presentation is good/okay. Timestamps for the video: 0s to 1min: intro and project overview. 1:01 to 1:45 app showcase. 1:46 to 2:17 showing the code. 2:18 to 2:44 Conclusion/outro (3 points)
 
 **Total points:** 30
 
@@ -50,6 +50,7 @@ What I learned and what I could improve next? Well basically I have learned the 
 before, but it was only with html and css. Now I got to add javascript in to the mix and it is cool to see what it can do. As the name says, it can be used to make apps on web and you can run it like
 normal website with live url or you could just use it locally if you wanted to. For example if you wanted to make app like habit tracker just for yourself, you wouldn't really have to deploy it, but you could
 just use it locally from your PC / laptop. And what can I improve? Well I can learn lot more. This is only the beginning. I do like the idea of making apps with JS.
+
 
 
 
